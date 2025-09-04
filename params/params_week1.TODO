@@ -1,1 +1,5 @@
 muni_count: 123
+operational_window: "Sunday June 8th 2025 - Saturday August 30th 2025"
+climatology_window: "Jan 1, 2018 – Jan 1, 2025"
+week_boundary_rule: "Weeks run Sun–Sat"
+week_start: "Sunday 00:00:00 local”
