@@ -11,9 +11,6 @@ Este documento reúne las licencias y atribuciones necesarias para los conjuntos
 **Atribución requerida (recomendada por DANE):**  
 > “Departamento Administrativo Nacional de Estadística - DANE: https://www.dane.gov.co
 
-**Notas prácticas:**
-- Indique también el nombre del recurso y versión utilizados (p. ej., “MGN 2023, DIVIPOLA versión [número]”).  
-- Algunos recursos publicados vía datos abiertos pueden indicar una licencia específica en su ficha. Si difiere de CC BY 4.0, respete la licencia indicada en el recurso.  
 
 ---
 
