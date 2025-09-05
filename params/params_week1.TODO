@@ -1,5 +1,24 @@
+AOI: "Boyacá"
 muni_count: 123
-operational_window: "Sunday June 8th 2025 - Saturday August 30th 2025"
-climatology_window: "Jan 1, 2018 – Jan 1, 2025"
-week_boundary_rule: "Weeks run Sun–Sat"
-week_start: "Sunday 00:00:00 local”
+week_boundary_rule: "Sun–Sat"
+operational_window: "2025-06-08 to 2025-08-30"   # 12 weeks
+climatology_window: "2018-01-01 to 2025-01-01"   # 7 years
+
+asset_munis: "projects/boyaca-471009/assets/boyaca_municipios"
+key_fields: [MUNI_CODE, MUNI_NAME]
+
+cloud_method: "Sentinel-2 Cloud Probability"
+cloud_threshold: 60
+composite: "median NDVI"
+ndvi_formula: "(B8 - B4) / (B8 + B4)"
+ndvi_qc: "% valid pixels after cloud mask"
+
+ndvi_scale: 250
+rain_scale: 5000
+
+export_target: "Google Drive"
+export_path: "EE Exports/Boyaca"
+
+naming_conventions:
+  operational: "weekly_ndvi_rain_boyaca_<YYYYMMDD>.csv"
+  climatology: "climatology_2018_2025_ndvi_rain.csv"
