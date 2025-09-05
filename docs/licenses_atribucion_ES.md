@@ -9,7 +9,7 @@ Este documento reúne las licencias y atribuciones necesarias para los conjuntos
 **Acceso:** Geoportal DANE (MGN y DIVIPOLA)  
 **Licencia / Condiciones:** Creative Commons Atribución 4.0 Internacional (CC BY 4.0) aplicada por DANE a la información georreferenciada publicada en su Geoportal.  
 **Atribución requerida (recomendada por DANE):**  
-> “Departamento Administrativo Nacional de Estadística - DANE: https://www.dane.gov.co”.
+> “Departamento Administrativo Nacional de Estadística - DANE: https://www.dane.gov.co
 
 **Notas prácticas:**
 - Indique también el nombre del recurso y versión utilizados (p. ej., “MGN 2023, DIVIPOLA versión [número]”).  
